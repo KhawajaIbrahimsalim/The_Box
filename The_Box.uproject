@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{567F839F-47F4-D66C-1557-07B6AEAD3643}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "The_Box",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
